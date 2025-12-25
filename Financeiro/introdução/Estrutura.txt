@@ -1,0 +1,10 @@
+Financeiro:
+
+- Cadastros
+- Contas à Pagar
+- Contas a Receber
+- Movimento Bancário
+- Caixinha
+- Aplicação / Empréstimo
+- Integração Contábil
+- Relatórios

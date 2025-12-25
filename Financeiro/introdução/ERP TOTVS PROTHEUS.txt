@@ -1,0 +1,24 @@
+TOTVS PROTHEUS:
+
+É o ERP Líder na América Latina
+- Atende diversos segmentos
+- Possui uma grande variedade de módulos
+- Adaptado à legislação brasileira
+
+Principais Módulos do Protheus:
+
+- Faturamento - Controla Pedido de Vendas, Visitas de Vendedores, Funil de Vendas, Liberação de Pedidos, Controle de Orçamento, Geração do Faturamento, Transmissão das Notas via SEFAZ e os títulos gerados no faturamento são integrados/enviados para o financeiro.
+
+- Financeiro - Controla Contas a Pagar, Contas a Receber, Envio de CNAB, Envio de Remessa, Envio de Retorno, Títulos a Pagar e Receber, Controle de Aplicações e Empréstimos, Controle de Caixinha, Controle de Variação Cambial entre moedas.
+
+- Estoque - Controle de Materiais, Solicitações ao Almoxarifado, Controle de Estrutura de Produtos Acabados(EAP) e BOM(Bill of Materials), Apontamento de Produção, Inventário, Fechamento de Estoque.
+
+- Compras - Controle de Solicitação de Compras, Cotação de Compras, Pedido de Compras, Liberação de Pedidos com Liberação por Alçada.
+
+- Livros Fiscais - Permeia os 4 módulos acima(Faturamento, Financeiro, Estoque e Compras) e faz as obrigações fiscais, portanto tudo que é faturado no faturamento, tudo que tem retenção de impostos no financeiro, toda a parte do bloco K do sped fiscal que é o controle de produção, toda parte de entrada de nota, tudo isso que gera impostos é controlado e gerados os arquivos magnéticos através deste módulo livros fiscais.
+
+- Contabilidade - Tudo que é contabilizado nos módulos anteriores são enviados para a contabilidade para fazer o controle dos lançamentos contábeis, dos razões, dos balancetes, dos balanços, faz o envio do ECD(Escrituração Contábil Digital) e ECF (Escrituração Contábil Fiscal)
+
+- Gestão de Pessoal - Controla toda a parte de Folha de Pagamento, Controle de Funcionários, Geração de Folha, Pagamento de Funcionário.
+
+- Entre outros módulos...

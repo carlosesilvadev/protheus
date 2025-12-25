@@ -1,0 +1,11 @@
+Cadastro de Produtos:
+
+Acesso via Menu -
+
+Módulo Estoque/Custo -> Atualizações -> Cadastros -> Produto -> Produtos
+
+Acesso através do nome do Programa, identificado dentro da rotina com o atalho no teclado SHIFT+F6.
+
+MATA010 - Cadastro de Produtos
+
+Ex.: MATA330 - Cálculo do Custo Médio

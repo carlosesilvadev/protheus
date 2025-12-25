@@ -1,0 +1,23 @@
+O que é software ERP?
+
+Sigla ERP - Enterprise Resource Planning
+
+Software ERP - Programa de Gestão Empresarial
+
+Empresas utilizam este tipo de software para a gestão da empresa.
+
+Possuem banco de dados compartilhados entre os módulos.
+
+Possui Múltiplos acessos em rotinas distintas.
+
+Possui diversos módulos integrados entre si, como:
+
+- Financeiro
+- Contábil
+- Recursos Humanos (RH)
+- Manufatura
+- Gestão de Suprimentos
+- Gestão de Projetos
+- Gestão de Relacionamento com o Cliente (CRM)
+
+Além de se integrar com outros softwares via API.

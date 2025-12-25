@@ -1,0 +1,24 @@
+Financeiro - Responsabilidades:
+
+- Acompanhamento de Enventos Financeiros e Recursos de uma empresa
+- Acompanhamento de entrada e desembolsos de recursos financeiros
+- Controle e administração de títulos à pagar e receber de clientes e fornecedores
+- Processar e Analistar Fluxo de Caixa
+- Controle de Aplicações e Empréstimos
+- Controle de movimentações bancárias
+- Controle de adiantamento e prestações de contas
+- Realizar Conferências e Conciliações para depois fazer a integração com a Contabilidade
+
+Principais Integrações com o Módulo Financeiro:
+
+- Compras
+- Faturamento
+- Livros Fiscais
+- Gestão de Pessoal
+- Contabilidade Gerencial
+- Gestão de Projetos (PMS - Project Managing System)
+- Planejamento e Controle Orçamentária (PCO)
+- Gestão de Contratos
+- Entre outros...
+
+O financeiro também faz integração com o Livros Fiscais quando vai gerar DIRF, Retenção de PIS/COFINS e CSLL(Contribuição Social sobre o Lucro Líquido).
