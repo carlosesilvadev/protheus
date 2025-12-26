@@ -1,0 +1,3 @@
+MATA010 - CADASTRO DE PRODUTO - TABELA SB1
+MATA035 - Cadastro de Grupos - Tabela SBM
+QIEA030 - Cadastro de Unidade de Medida - Tabela SAH

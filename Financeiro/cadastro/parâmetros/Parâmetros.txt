@@ -1,0 +1,22 @@
+Parâmetros:
+
+São variáveis do sistema que determinam como uma função será executado que muda conforme o seu conteúdo é alterado.
+
+Exemplo:
+
+MV_SPEDURL - URL para transmissão de Nota Fiscal
+MV_NFCEURL - URL para transmissão de Cupom Fiscal
+MV_TAFSURL - URL para transmissão do E-Social/Reinf
+MV_TAFPORT - PORTA DO DBACCESS
+MV_TAFTALI - NOME DO BANCO DE DADOS
+MV_TAFREST - URL DO REST DO TAF(Era utilizado antes da nova interface PO/UI nativo do Protheus)
+MV_BACKEND - URL HTTP DO REST DO TAF(Era utilizado antes da nova interface PO/UI nativo do Protheus)
+MV_GCTPURL - URL DO REST DO TAF(Era utilizado antes da nova interface PO/UI nativo do Protheus)
+ZZ_WFIPEXT - URL por IP Externo do Workflow para rotina customizada
+ZZ_WFQHOST - URL por DNS do Workflow para rotina customizada
+MV_WFBRWSR - URL HTTP do Workflow via Browser
+MV_WFHTTPE - URL HTTP do Workflow Endereço Externo
+MV_WFHTTPI - URL HTTP do Workflow Endereço Interno
+MV_NGWFHT - URL HTTP do Workflow
+
+MV_RASTRO - No módulo de estoque para controlar a rastreabilidade de lote precisa habilitar este parâmetro, mesmo que no produto você marque para controlar a rastreabilidade se este parâmetro não estiver habilitado não vai realizar o rastreio.
