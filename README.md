@@ -4,3 +4,18 @@
 
 Execução das rotinas no Protheus.
 
+<table>
+  <thead>
+    <tr>
+      <th>Rotina:</th>
+      <th>Evidência:</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td>Financeiro/Moedas/Tabela SM2</td>
+      <td><img src="./Financeiro/cadastro/moedas/ajusteMoedasSM2ViaSQL.gif" width="500"/></td>
+    </tr>
+  </tbody>
+</table>
