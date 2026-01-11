@@ -17,5 +17,9 @@ Execução das rotinas no Protheus.
       <td>Financeiro/Moedas/Tabela SM2</td>
       <td><img src="./Financeiro/cadastro/moedas/ajusteMoedasSM2ViaSQL.gif" width="500"/></td>
     </tr>
+    <tr>
+      <td>Financeiro/Fornecedores/Tabela SA2</td>
+      <td><img src="./Financeiro/cadastro/fornecedores/ajusteFornecedorSA2viaSQL.gif" width="500"/></td>
+    </tr>
   </tbody>
 </table>
