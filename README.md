@@ -21,5 +21,13 @@ Execução das rotinas no Protheus.
       <td>Financeiro/Fornecedores/Tabela SA2</td>
       <td><img src="./Financeiro/cadastro/fornecedores/ajusteFornecedorSA2viaSQL.gif" width="500"/></td>
     </tr>
+    <tr>
+      <td>Financeiro/Clientes/Tabela SA1</td>
+      <td><img src="./Financeiro/cadastro/clientes/cadastroEAjusteClientesSA1viaSQL.gif" width="500"/></td>
+    </tr>
+    <tr>
+      <td>Financeiro/Clientes/Tabela SA1 - Facilitador</td>
+      <td><img src="./Financeiro/cadastro/clientes/ajusteClientesSA1viaFacilitador.gif" width="500"/></td>
+    </tr>
   </tbody>
 </table>
