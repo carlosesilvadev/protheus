@@ -1,0 +1,3 @@
+SELECT * FROM SA3990
+
+UPDATE SA3990 SET A3_END = 'Rodovia Raposo Tavares, km 36' WHERE A3_COD = 'VEND03'
