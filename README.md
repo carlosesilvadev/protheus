@@ -33,5 +33,9 @@ Execução das rotinas no Protheus.
       <td>Financeiro/Vendedores/Tabela SA3</td>
       <td><img src="./Financeiro/cadastro/vendedores/cadastroEAjusteVendedoresSA3viaSQL.gif" width="500"/></td>
     </tr>
+    <tr>
+      <td>Financeiro/Bancos/Tabela SA6</td>
+      <td><img src="./Financeiro/cadastro/bancos/cadastroEAjusteBancosSA6viaSQL.gif" width="500"/></td>
+    </tr>
   </tbody>
 </table>
