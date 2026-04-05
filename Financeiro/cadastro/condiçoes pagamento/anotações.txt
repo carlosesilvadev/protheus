@@ -1,0 +1,68 @@
+Quando cadastrar uma condição de pagamento existem alguns tipos de 1 até B, sendo eles:
+
+1 - A partir da data base que está entrando com uma nota ou fazendo uma nota de saída(faturando uma nota), vai ser gerado o vencimento de acordo com o numero de dias que inserir no campo condição de pagamento, ou seja, inserindo [15,25] o vencimento vai ocorrer 15 dias após a data base no primeiro vencimento e 25 dias após a data base no segundo vencimento.
+
+2 - 
+3 - 
+4 - 
+5 - 
+6 - 
+8 - 
+9 - 
+A - 
+B - 
+
+Campos:
+
+IPI - Opções N/J/S: ou seja, se o IPI for destacado na nota com a opção:
+
+- N-Normal - o valor do IPI vai ser dividido nas parcelas.
+- J-Junta - o valor do IPI vai vir somente na primeira parcela.
+- S-Separa - Vem um titulo separado no financeiro.
+
+Dias da Condição - Opções D/L/S/Q/F/Z:
+
+- D - Data do dia - O número de dias inserido na condição de pagamento vai contar a partir da data em que a nota foi gerada.
+
+- L - Fora o dia - O número de dias inserido na condição de pagamento vai contar a partir da data seguinte em que a nota foi gerada(fora o dia de geração da nota).
+
+- S - Fora semana - O número de dias inserido na condição de pagamento vai contar a partir da semana seguinte em que a nota foi gerada(fora a semana de geração da nota).
+
+- Q - Fora Quinzena - O número de dias inserido na condição de pagamento vai contar a partir da quinzena seguinte em que a nota foi gerada(fora a quinzena em que houve a geração da nota).
+
+- F - Fora mês - O número de dias inserido na condição de pagamento vai contar a partir do mês seguinte em que a nota foi gerada(fora o mês atual da nota gerada).
+
+- Z - Fora Dezena - O número de dias inserido na condição de pagamento vai contar a partir da dezena seguinte em que a nota foi gerada(fora a dezena em que houve a geração da nota).
+
+
+Desconto Financeiro - Porcentagem de desconto
+
+Dias para Desconto - Indica a quantidade de dias antes da data de vencimento que o desconto financeiro será aplicado
+
+Status - Se a condição de pagamento estará ativa ou inativa
+
+Acréscimo Financeiro - Porcentagem de juros, (somente para caso de nota de saída para faturamento)
+
+Agrega acréscimo - O percentual vai ser somado no valor total da nota(SIM/NÃO)
+
+ICM Solidário - Opções N/J/S: 
+
+N - Normal - Se o valor do ICM Solidário vai ser dividido em todas as parcelas
+J - Junta - Se o valor do ICM Solidário vai ser somente na primeira parcela
+S - Separa - Se o valor do ICM Solidário vai ter um título separado
+
+Acréscimo Financeiro - Opções N/J/S/V: 
+
+N - Normal - Se o valor do Acréscimo Financeiro vai ser dividido em todas as parcelas
+J - Junta - Se o valor do Acréscimo Financeiro vai ser somente na primeira parcela
+S - Separa - Se o valor do Acréscimo Financeiro vai ter um título separado
+V - NC a Vista - Se o valor do Acréscimo Financeiro vai ser cobrado quando houver parcela à vista
+
+
+Limite Superior e Limite Inferior - Valor máximo e mínimo de acordo com a regra de negócio seja do valor da nota ou do valor do produto, ou seja, se colocar um limite de R$1000 e R$100 respectivamente, então esta condição de pagamento não poderá ser utilizada se o valor da nota estiver acima de R$ 1000 ou abaixo de R$ 100.
+
+Adiantamento - Se essa nota vai gerar um RA(Recebimento antecipado) ou uma PA(pagamento antecipado)
+
+Lim. Dias Pg - Indicar o número de dias para pagamento a vista de todas as parcelas do título(De acordo com a data base)
+
+Con Corrente - Sim/Não - Se será utilizado os dados da conta corrente
