@@ -2,7 +2,8 @@ Quando cadastrar uma condição de pagamento existem alguns tipos de 1 até B, s
 
 1 - A partir da data base que está entrando com uma nota ou fazendo uma nota de saída(faturando uma nota), vai ser gerado o vencimento de acordo com o numero de dias que inserir no campo condição de pagamento, ou seja, inserindo [15,25] o vencimento vai ocorrer 15 dias após a data base no primeiro vencimento e 25 dias após a data base no segundo vencimento.
 
-2 - 
+2 - De acordo com a numeração de 3 dígitos contido no campo código e o número no campo 'Cond. Pagto' é que vai determinar a regra, exemplo 231 e na condição de pagamento 15, será calculado da seguinte maneira 2*15 = 30, então de acordo com a data base será adicionado mais 30 dias para o vencimento o número 3 indica que será parcelado em até 3 vezes e o número 1 * 15 é o intervalo de dias entre as parcelas que será realizado a cada 15 dias. 
+
 3 - 
 4 - 
 5 - 
