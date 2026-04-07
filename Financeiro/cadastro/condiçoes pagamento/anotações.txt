@@ -6,7 +6,8 @@ Quando cadastrar uma condição de pagamento existem alguns tipos de 1 até B, s
 
 3 - O primeiro número indicado no campo 'Cond. Pagto' vai determinar a quantidade de parcelas, o número seguinte depois da vírgula vai indicar a data de carência para o vencimento da primeira parcela, e os números seguintes, vão indicar em qual dia do mês será o vencimento das parcelas seguintes.
 
-4 - 
+4 - O primeiro número no campo 'Cond. Pagto' indica a quantidade de parcelas, o segundo número indica a quantidade de dias de intervalo entre as parcelas e o último número que pode ser de 1 até 7, representa o dia da semana que a parcela pode vencer, sendo 1 a partir de domingo até 7 sendo esse o sábado.
+
 5 - 
 6 - 
 8 - 
