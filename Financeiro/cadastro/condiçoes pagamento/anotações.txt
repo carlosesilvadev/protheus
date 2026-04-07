@@ -4,7 +4,8 @@ Quando cadastrar uma condição de pagamento existem alguns tipos de 1 até B, s
 
 2 - De acordo com a numeração de 3 dígitos contido no campo código e o número no campo 'Cond. Pagto' é que vai determinar a regra, exemplo 231 e na condição de pagamento 15, será calculado da seguinte maneira 2*15 = 30, então de acordo com a data base será adicionado mais 30 dias para o vencimento o número 3 indica que será parcelado em até 3 vezes e o número 1 * 15 é o intervalo de dias entre as parcelas que será realizado a cada 15 dias. 
 
-3 - 
+3 - O primeiro número indicado no campo 'Cond. Pagto' vai determinar a quantidade de parcelas, o número seguinte depois da vírgula vai indicar a data de carência para o vencimento da primeira parcela, e os números seguintes, vão indicar em qual dia do mês será o vencimento das parcelas seguintes.
+
 4 - 
 5 - 
 6 - 
