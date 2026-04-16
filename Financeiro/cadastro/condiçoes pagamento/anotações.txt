@@ -12,7 +12,11 @@ Quando cadastrar uma condição de pagamento existem alguns tipos de 1 até B, s
 
 6 - o primeiro número no campo 'Cond. Pagto' indica a quantidade de parcelas, o segundo número indica a carência de vencimento da primeira parcela, o terceiro número indica o dia da semana igual o tipo 4, no intervalo de 1(domingo) até 7(sábado) e o último número indica o intervalo de dias entre as demais parcelas.
 
+7 - Obs.: Não existe na lista do Protheus, mas se digitar esse tipo funciona da seguinte maneira: O primeiro número no campo 'Cond. Pagto' indica a quantidade de parcelas, na sequência, 12 números seguidos por vírgula, onde é fixado em qual dia de cada mês do ano(12 meses) em que a parcela terá o seu vencimento.
+
 8 - 
+
+
 9 - 
 A - 
 B - 
