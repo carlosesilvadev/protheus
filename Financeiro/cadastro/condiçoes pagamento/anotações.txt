@@ -17,7 +17,8 @@ Quando cadastrar uma condição de pagamento existem alguns tipos de 1 até B, s
 8 - No tipo 8 será utilizado a seguinte estrutura [X,Z,Y],[W,A,H] - onde X,Y e Z representam o número de dias de vencimento das 3 parcelas e W,A e H representam a porcentagem do respectivo valor de cada parcela, por exemplo [28,35,42],[30,50,20], traduzindo será realizado em 3x onde a primeira parcela vence com 28 dias, a segunda parcela vence com 35 dias e terceira parcela vence com 42 dias, além disso na primeira parcela será cobrado 30% do valor total, na segunda parcela será cobrado 50% do valor total e na terceira e última parcela será cobrado os restantes 20% para totalizar os 100%.
 
 
-9 - 
+9 - Este tipo 9 é utilizado os valores 0 ou % no campo 'Cond. Pagto' que deixa em aberto e é recomendado para pagamentos onde as parcelas e os vencimentos não possuem o mesmo valor ou periodicidade respectivamente.
+
 A - 
 B - 
 
