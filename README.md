@@ -41,5 +41,9 @@ Execução das rotinas no Protheus.
       <td>Financeiro/Naturezas/Tabela SED</td>
       <td><img src="./Financeiro/cadastro/naturezas/cadastroEAjusteNaturezasSEDviaSQL.gif" width="500"/></td>
     </tr>
+    <tr>
+      <td>Financeiro/Condições de Pagamento/Tabela SE4</td>
+      <td><img src="./Financeiro/cadastro/condiçoes pagamento/cadastroCondicaoDePagamentoTipo1SE4viaRotina.gif" width="500"/></td>
+    </tr>
   </tbody>
 </table>
