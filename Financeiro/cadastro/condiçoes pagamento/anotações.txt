@@ -19,7 +19,9 @@ Quando cadastrar uma condição de pagamento existem alguns tipos de 1 até B, s
 
 9 - Este tipo 9 é utilizado os valores 0 ou % no campo 'Cond. Pagto' que deixa em aberto e é recomendado para pagamentos onde as parcelas e os vencimentos não possuem o mesmo valor ou periodicidade respectivamente.
 
-A - 
+A - Este tipo A não é utilizado no Financeiro/Faturamento, mas sim pelo SIGAVEI para frota de veículos, portanto será necessário verificar com o módulo em questão, pois neste módulo estamos tratando o assunto do financeiro.
+
+
 B - 
 
 Campos:
