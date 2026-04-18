@@ -22,7 +22,7 @@ Quando cadastrar uma condição de pagamento existem alguns tipos de 1 até B, s
 A - Este tipo A não é utilizado no Financeiro/Faturamento, mas sim pelo SIGAVEI para frota de veículos, portanto será necessário verificar com o módulo em questão, pois neste módulo estamos tratando o assunto do financeiro.
 
 
-B - 
+B - No tipo B pode colocar o valor 0 no campo 'Cond. Pagto', mas na parte inferior pode ser utilizado múltiplos métodos de pagamento, por exemplo um registro para o tipo 1 com 50% do total do pagamento e outro registro para o tipo 2 com os outros 50%, então aqui é um combinado entre tipos.
 
 Campos:
 
