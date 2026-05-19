@@ -85,5 +85,17 @@ Execução das rotinas no Protheus.
       <td>Financeiro/Condições de Pagamento/Tabela SE4/Tipo B</td>
       <td><img src="./cadastro/condiçoes pagamento/cadastroCondicaoDePagamentoTipoBSE4viaRotina.gif" width="500"/></td>
     </tr>
+	<tr>
+      <td>Financeiro/Visão Gerencial Financeira/Tabelas FJ1,FJ2 e FJ3</td>
+      <td><img src="./cadastro/visão gerencial financeira/cadastroVisaoGerencialFinanceiraFJ1_FJ2_FJ3viaRotina.gif" width="500"/></td>
+    </tr>
+	<tr>
+      <td>Financeiro/Contas a Receber/Tabela SE1</td>
+      <td><img src="./cadastro/contas a receber/cadastrarAlterarTitulosContasAReceberSE1viaRotina.gif" width="500"/></td>
+    </tr>
+	<tr>
+      <td>Financeiro/Recebimentos Diversos</td>
+      <td><img src="./cadastro/recebimentos diversos/baixaDeTituloViaRecebimentosDiversos.gif" width="500"/></td>
+    </tr>
   </tbody>
 </table>
