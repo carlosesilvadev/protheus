@@ -91,11 +91,11 @@ Execução das rotinas no Protheus.
     </tr>
 	<tr>
       <td>Financeiro/Contas a Receber/Tabela SE1</td>
-      <td><img src="./contas a receber/cadastrarAlterarTitulosContasAReceberSE1viaRotina.gif" width="500"/></td>
+      <td><img src="./contas a receber/contas a receber/cadastrarAlterarTitulosContasAReceberSE1viaRotina.gif" width="500"/></td>
     </tr>
 	<tr>
-      <td>Financeiro/Recebimentos Diversos</td>
-      <td><img src="./recebimentos diversos/baixaDeTituloViaRecebimentosDiversos.gif" width="500"/></td>
+      <td>Financeiro/Contas a Receber/Recebimentos Diversos</td>
+      <td><img src="./contas a receber/recebimentos diversos/baixaDeTituloViaRecebimentosDiversos.gif" width="500"/></td>
     </tr>
   </tbody>
 </table>
