@@ -97,5 +97,9 @@ Execução das rotinas no Protheus.
       <td>Financeiro/Contas a Receber/Recebimentos Diversos</td>
       <td><img src="./contas a receber/recebimentos diversos/baixaDeTituloViaRecebimentosDiversos.gif" width="500"/></td>
     </tr>
+	<tr>
+      <td>Financeiro/Contas a Receber/Transferências</td>
+      <td><img src="./contas a receber/transferências/transferirTituloDeCarteira.gif" width="500"/></td>
+    </tr>
   </tbody>
 </table>
