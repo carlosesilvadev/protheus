@@ -101,5 +101,17 @@ Execução das rotinas no Protheus.
       <td>Financeiro/Contas a Receber/Transferências</td>
       <td><img src="./contas a receber/transferências/transferirTituloDeCarteira.gif" width="500"/></td>
     </tr>
+	<tr>
+      <td>Financeiro/Contas a Receber/Borderô de Recebimento Com Impostos</td>
+      <td><img src="./contas a receber/borderô de recebimento com impostos/borderoDeRecebimentoComImpostos.gif" width="500"/></td>
+    </tr>
+	<tr>
+      <td>Financeiro/Contas a Receber/Baixas a Receber/Baixa de Títulos</td>
+      <td><img src="./contas a receber/baixas a receber/baixaDeTitulosAReceber.gif" width="500"/></td>
+    </tr>
+	<tr>
+      <td>Financeiro/Contas a Receber/Baixas a Receber/Baixa de Títulos Por Lote, Cancelamento e Exclusão da Baixa</td>
+      <td><img src="./contas a receber/baixas a receber/baixaDeTitulosPorLoteECancelamentoEExclusãoDaBaixa.gif" width="500"/></td>
+    </tr>
   </tbody>
 </table>
