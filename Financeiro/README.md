@@ -113,5 +113,9 @@ Execução das rotinas no Protheus.
       <td>Financeiro/Contas a Receber/Baixas a Receber/Baixa de Títulos Por Lote, Cancelamento e Exclusão da Baixa</td>
       <td><img src="./contas a receber/baixas a receber/baixaDeTitulosPorLoteECancelamentoEExclusãoDaBaixa.gif" width="500"/></td>
     </tr>
+	<tr>
+      <td>Financeiro/Contas a Receber/Baixas Automáticas de Títulos a Receber/Baixa e Cancelamento Automática de Títulos</td>
+      <td><img src="./contas a receber/baixas automáticas de títulos a receber/baixasECancelamentoAutomáticasDeTítulosARreceber.gif" width="500"/></td>
+    </tr>
   </tbody>
 </table>
