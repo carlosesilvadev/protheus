@@ -9,6 +9,7 @@ Execução das rotinas no Protheus.
     <tr>
       <th>Rotina:</th>
       <th>Evidência:</th>
+	  <th>Programa:</th>
     </tr>
   </thead>
 
@@ -128,6 +129,11 @@ Execução das rotinas no Protheus.
 	<tr>
       <td>Financeiro/Contas a Receber/Devolução Cheques</td>
       <td><img src="./contas a receber/devolução cheques/devolverCheque.gif" width="500"/></td>
+    </tr>
+	<tr>
+      <td>Financeiro/Contas a Receber/Compensação De Contas A Receber - Parâmetros</td>
+      <td><img src="./contas a receber/compensação de contas a receber/compensaçãoDeContasAReceberParâmetros.gif" width="500"/></td>
+      <td>FINA330</td>
     </tr>
   </tbody>
 </table>
