@@ -122,8 +122,12 @@ Execução das rotinas no Protheus.
       <td><img src="./contas a receber/borderô de cheques/borderôDeCheques.gif" width="500"/></td>
     </tr>
 	<tr>
-      <td>Financeiro/Contas a Receber/Cheques Recebidos/Tabela SEF/Cadastrar Chequee Baixar Título com Cheque</td>
+      <td>Financeiro/Contas a Receber/Cheques Recebidos/Tabela SEF/Cadastrar Cheque Baixar Título com Cheque</td>
       <td><img src="./contas a receber/cheques recebidos/cadastrarChequeRecebidoEBaixarTituloComCheque.gif" width="500"/></td>
+    </tr>
+	<tr>
+      <td>Financeiro/Contas a Receber/Devolução Cheques</td>
+      <td><img src="./contas a receber/devolução cheques/devolverCheque.gif" width="500"/></td>
     </tr>
   </tbody>
 </table>
