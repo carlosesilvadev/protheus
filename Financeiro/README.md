@@ -117,5 +117,9 @@ Execução das rotinas no Protheus.
       <td>Financeiro/Contas a Receber/Baixas Automáticas de Títulos a Receber/Baixa e Cancelamento Automática de Títulos</td>
       <td><img src="./contas a receber/baixas automáticas de títulos a receber/baixasECancelamentoAutomáticasDeTítulosARreceber.gif" width="500"/></td>
     </tr>
+	<tr>
+      <td>Financeiro/Contas a Receber/Borderô de Cheques</td>
+      <td><img src="./contas a receber/borderô de cheques/borderôDeCheques.gif" width="500"/></td>
+    </tr>
   </tbody>
 </table>
