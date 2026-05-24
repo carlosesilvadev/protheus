@@ -145,5 +145,20 @@ Execução das rotinas no Protheus.
       <td><img src="./contas a receber/compensação de contas a receber/compensaçãoDeContasAReceberEntreClientes.gif" width="500"/></td>
       <td>FINA330</td>
     </tr>
+	<tr>
+      <td>Financeiro/Contas a Receber/Liquidação na Tabela FO0</td>
+      <td><img src="./contas a receber/liquidação/liquidaçãoDeTituloComParcelamento.gif" width="500"/></td>
+      <td>FINA460</td>
+    </tr>
+	<tr>
+      <td>Financeiro/Contas a Receber/Liquidação na Tabela FO0 - Filtro</td>
+      <td><img src="./contas a receber/liquidação/liquidaçãoFiltroDeTitulosPorCliente.gif" width="500"/></td>
+      <td>FINA460</td>
+    </tr>
+	<tr>
+      <td>Financeiro/Contas a Receber/Funções Contas a Receber</td>
+      <td><img src="./contas a receber/funções contas a receber/funçõesContasAReceber.gif" width="500"/></td>
+      <td>FINA740</td>
+    </tr>
   </tbody>
 </table>
