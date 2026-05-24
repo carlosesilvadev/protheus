@@ -135,5 +135,10 @@ Execução das rotinas no Protheus.
       <td><img src="./contas a receber/compensação de contas a receber/compensaçãoDeContasAReceberParâmetros.gif" width="500"/></td>
       <td>FINA330</td>
     </tr>
+	<tr>
+      <td>Financeiro/Contas a Receber/Compensação e Estorno De Contas A Receber</td>
+      <td><img src="./contas a receber/compensação de contas a receber/compensaçãoDeContasAReceberEEstorno.gif" width="500"/></td>
+      <td>FINA330</td>
+    </tr>
   </tbody>
 </table>
