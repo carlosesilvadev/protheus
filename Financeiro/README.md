@@ -160,5 +160,10 @@ Execução das rotinas no Protheus.
       <td><img src="./contas a receber/funções contas a receber/funçõesContasAReceber.gif" width="500"/></td>
       <td>FINA740</td>
     </tr>
+	<tr>
+      <td>Financeiro/Contas a Receber/Relatórios - Liquidação</td>
+      <td><img src="./contas a receber/relatorios/gerarRelatoriosContasAReceber.gif" width="500"/></td>
+      <td>FINR501</td>
+    </tr>
   </tbody>
 </table>
