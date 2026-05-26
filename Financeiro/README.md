@@ -1,11 +1,14 @@
-# Protheus
+# TOTVS Protheus - Financeiro
 
 
 
-Execução das rotinas no Protheus.
+Execução das funcionalidades das rotinas e programas do TOTVS Protheus:
 
 <table>
   <thead>
+	<tr>
+		<th colspan="3">Rotinas de Cadastro e Contas a Receber:</th>
+	</tr>
     <tr>
       <th>Rotina:</th>
       <th>Evidência:</th>
@@ -17,6 +20,7 @@ Execução das rotinas no Protheus.
     <tr>
       <td>Financeiro/Moedas/Tabela SM2</td>
       <td><img src="./cadastro/moedas/ajusteMoedasSM2ViaSQL.gif" width="500"/></td>
+      <td>MATA090</td>
     </tr>
     <tr>
       <td>Financeiro/Fornecedores/Tabela SA2</td>
@@ -166,4 +170,24 @@ Execução das rotinas no Protheus.
       <td>FINR501</td>
     </tr>
   </tbody>
+</table>
+
+<table>
+	<thead>
+		<tr>
+			<th colspan="3">Rotinas de Contas a Pagar:</th>
+		</tr>
+		<tr>
+			<th>Rotina:</th>
+			<th>Evidência:</th>
+			<th>Programa:</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Financeiro/Contas a Pagar na Tabela SE2</td>
+			<td><img src="./contas a pagar/contas a pagar/criarEAlterarTitulosDeContasAPagarNaSE2.gif" width="500"/></td>
+			<td>FINA050</td>
+		</tr>
+	</tbody>
 </table>
