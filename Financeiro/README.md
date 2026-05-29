@@ -194,5 +194,10 @@ Execução das funcionalidades das rotinas e programas do TOTVS Protheus:
 			<td><img src="./contas a pagar/borderô pagamentos/criarBorderôDePagamentos.gif" width="500"/></td>
 			<td>FINA240</td>
 		</tr>
+		<tr>
+			<td>Financeiro/Contas a Pagar/Borderô Com Impostos</td>
+			<td><img src="./contas a pagar/borderô com impostos/criarBorderôComImpostos.gif" width="500"/></td>
+			<td>FINA241</td>
+		</tr>
 	</tbody>
 </table>
