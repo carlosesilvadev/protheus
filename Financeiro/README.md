@@ -209,5 +209,10 @@ Execução das funcionalidades das rotinas e programas do TOTVS Protheus:
 			<td><img src="./contas a pagar/baixas pagar manual/baixarECancelarTitulosManualmente.gif" width="500"/></td>
 			<td>FINA080</td>
 		</tr>
+		<tr>
+			<td>Financeiro/Contas a Pagar/Baixas a Pagar Automática</td>
+			<td><img src="./contas a pagar/baixas pagar automática/baixarECancelarBaixasAutomaticamente.gif" width="500"/></td>
+			<td>FINA090</td>
+		</tr>
 	</tbody>
 </table>
