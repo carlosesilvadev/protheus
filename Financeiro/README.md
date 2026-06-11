@@ -224,5 +224,10 @@ Execução das funcionalidades das rotinas e programas do TOTVS Protheus:
 			<td><img src="./contas a pagar/faturas a pagar/aglutinaçãoDeContasAPagar.gif" width="500"/></td>
 			<td>FINA290</td>
 		</tr>
+		<tr>
+			<td>Financeiro/Contas a Pagar/Compensação De Contas a Pagar - P.A.(Pagamento Antecipado) com Titulos em Aberto</td>
+			<td><img src="./contas a pagar/compensação contas a pagar/compensarTituloDePagamentoAntecipadoComTitulosEmAberto.gif" width="500"/></td>
+			<td>FINA340</td>
+		</tr>
 	</tbody>
 </table>
