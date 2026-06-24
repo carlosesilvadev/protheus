@@ -239,5 +239,10 @@ Execução das funcionalidades das rotinas e programas do TOTVS Protheus:
 			<td><img src="./contas a pagar/funções contas a pagar/funçõesContasAPagar.gif" width="500"/></td>
 			<td>FINA750</td>
 		</tr>
+		<tr>
+			<td>Financeiro/Contas a Pagar/Relatórios / Títulos a Pagar</td>
+			<td><img src="./contas a pagar/relatórios/titulosAPagar.gif" width="500"/></td>
+			<td>FINR150</td>
+		</tr>
 	</tbody>
 </table>
