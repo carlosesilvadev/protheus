@@ -264,5 +264,10 @@ Execução das funcionalidades das rotinas e programas do TOTVS Protheus:
 			<td><img src="./movimento bancario/saldo bancario/atualizaçãoDeSaldosBancáriosNaSE8.gif" width="500"/></td>
 			<td>FINA030</td>
 		</tr>
+		<tr>
+			<td>Financeiro/Movimento Bancario/Movimentos Bancários na Tabela SE5</td>
+			<td><img src="./movimento bancario/movimentos bancários\movimentaçãoBancáriaNaSE5.gif" width="500"/></td>
+			<td>FINA100</td>
+		</tr>
 	</tbody>
 </table>
