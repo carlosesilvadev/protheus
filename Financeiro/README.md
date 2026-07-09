@@ -279,5 +279,10 @@ Execução das funcionalidades das rotinas e programas do TOTVS Protheus:
 			<td><img src="./movimento bancario/cnabs/geraçãoLeituraDeCNABContasAPagar.gif" width="500"/></td>
 			<td>FINA750</td>
 		</tr>
+		<tr>
+			<td>Financeiro/Movimento Bancario/Relatórios</td>
+			<td><img src="./movimento bancario/relatorios/gerarRelatórioExtratoBancário.gif" width="500"/></td>
+			<td>FINR470</td>
+		</tr>
 	</tbody>
 </table>
