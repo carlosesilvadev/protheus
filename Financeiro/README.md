@@ -286,3 +286,23 @@ Execução das funcionalidades das rotinas e programas do TOTVS Protheus:
 		</tr>
 	</tbody>
 </table>
+
+<table>
+	<thead>
+		<tr>
+			<th colspan="3">Rotinas do Caixinha:</th>
+		</tr>
+		<tr>
+			<th>Rotina:</th>
+			<th>Evidência:</th>
+			<th>Programa:</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Financeiro/Caixinha/Manutenção de Caixinha na Tabela SET</td>
+			<td><img src="./caixinha/manutenção/criarEReporCaixinhaNaSET.gif" width="500"/></td>
+			<td>FINA550</td>
+		</tr>
+	</tbody>
+</table>
