@@ -269,5 +269,15 @@ Execução das funcionalidades das rotinas e programas do TOTVS Protheus:
 			<td><img src="./movimento bancario/movimentos bancários\movimentaçãoBancáriaNaSE5.gif" width="500"/></td>
 			<td>FINA100</td>
 		</tr>
+		<tr>
+			<td>Financeiro/Movimento Bancario/CNAB Contas a Receber</td>
+			<td><img src="./movimento bancario/cnabs/geraçãoLeituraDeCNABContasAReceber.gif" width="500"/></td>
+			<td>FINA740</td>
+		</tr>
+		<tr>
+			<td>Financeiro/Movimento Bancario/CNAB Contas a Pagar</td>
+			<td><img src="./movimento bancario/cnabs/geraçãoLeituraDeCNABContasAPagar.gif" width="500"/></td>
+			<td>FINA750</td>
+		</tr>
 	</tbody>
 </table>
